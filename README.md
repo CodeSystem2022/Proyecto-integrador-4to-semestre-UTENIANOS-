@@ -5,6 +5,7 @@ El poyecto de ecomerce Ecosomier Mendoza tiene como objetivo mostrar una tienda 
 ## Código de desarrollo de Web y app para ecomerce de tienda de muebles 
 
 #### Integrantes del equipo
+<a href='https://postimg.cc/gXwqHzmb' target='_blank'><img src='https://i.postimg.cc/gXwqHzmb/en.gif' border='0' alt='en'/></a>
 
 | Nombre               | LinkedIn                                               | GitHub                                      |
 | -------------------- | ------------------------------------------------------ | ------------------------------------------- |
