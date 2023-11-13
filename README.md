@@ -1,6 +1,7 @@
 # Proyecto-integrador-4to-semestre-UTENIANOS-
 ## El poyecto de ecomerce Ecosomier Mendoza tiene como objetivo mostrar una tienda de muebles. El usuario se registra,se recopilan los datos en la base de datos. A su vez en el caso de realizar una compra se conecta con billeteras virtuales para elegir su metodología de pago. Se le informa el tiempo de de despacho del producto y la forma del envío o retiro en tienda. El acceso al ecomerce tiene acceso por web y por app. 
 ## Se utilizará como lenguaje Java, servicio rest, spring framework, spring boot, Thymeleaf,spring MVC,Spring Data, JPA, spring segurity y . Hipertexto HTML, hoja de estilo CSS y javascript. 
+[Video ecomerce Ecosomier Mendoza](https://youtu.be/BsK-qyIdmEE)
 ![image](https://github.com/CodeSystem2022/Proyecto-integrador-4to-semestre-UTENIANOS-/assets/98441984/de023f31-57aa-4409-943e-8846ef7e6576)
 ![image](https://github.com/CodeSystem2022/Proyecto-integrador-4to-semestre-UTENIANOS-/assets/98441984/fe05d394-64b8-41b3-89d6-eacc8a39beaf)
 ![image](https://github.com/CodeSystem2022/Proyecto-integrador-4to-semestre-UTENIANOS-/assets/98441984/8973e064-b943-4913-9d0e-1651f9b8a8be)
